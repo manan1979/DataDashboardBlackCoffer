@@ -9,7 +9,6 @@ Here are some enticing snapshots showcasing the features and functionalities of 
 ![image](https://github.com/RiteshKumarShukla/Data-Visualization-Dashboard/assets/110231091/d30a8648-12d7-41b6-82c6-5ebec4c5268b)
 
 
-![image](https://github.com/RiteshKumarShukla/Data-Visualization-Dashboard/assets/110231091/66fc2062-e850-49c6-ad0c-147e7bd1877e)
 
 
 
